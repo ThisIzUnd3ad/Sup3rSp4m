@@ -1,8 +1,8 @@
 # Sup3rSp4m
-How to Use?
-Simple...
-First of All You must install python3 from python.org and then open the Sp4mmer.py :) and then install libraries by using this commands:
--pip3 install keyboard pyautogui time
+-How to Use?
+-Simple...
+-First of All You must install python3 from python.org and then install libraries by using this commands:
+-pip3 install keyboard pyautogu 
 :)
 
 -#step 1
